@@ -1,0 +1,17 @@
+/Volumes/HD2/workshop-spring-boot-mongodb/src/main/java/com/pedropbazzo/workshopmongo/dto/UserDTO.java
+/Volumes/HD2/workshop-spring-boot-mongodb/src/main/java/com/pedropbazzo/workshopmongo/config/Instantiation.java
+/Volumes/HD2/workshop-spring-boot-mongodb/src/main/java/com/pedropbazzo/workshopmongo/services/PostService.java
+/Volumes/HD2/workshop-spring-boot-mongodb/src/main/java/com/pedropbazzo/workshopmongo/repository/PostRepository.java
+/Volumes/HD2/workshop-spring-boot-mongodb/src/main/java/com/pedropbazzo/workshopmongo/resources/PostResource.java
+/Volumes/HD2/workshop-spring-boot-mongodb/src/main/java/com/pedropbazzo/workshopmongo/domain/Post.java
+/Volumes/HD2/workshop-spring-boot-mongodb/src/main/java/com/pedropbazzo/workshopmongo/repository/UserRepository.java
+/Volumes/HD2/workshop-spring-boot-mongodb/src/main/java/com/pedropbazzo/workshopmongo/resources/exception/ResourceExceptionHandler.java
+/Volumes/HD2/workshop-spring-boot-mongodb/src/main/java/com/pedropbazzo/workshopmongo/resources/util/URL.java
+/Volumes/HD2/workshop-spring-boot-mongodb/src/main/java/com/pedropbazzo/workshopmongo/WorkshopmongoApplication.java
+/Volumes/HD2/workshop-spring-boot-mongodb/src/main/java/com/pedropbazzo/workshopmongo/resources/exception/StandardError.java
+/Volumes/HD2/workshop-spring-boot-mongodb/src/main/java/com/pedropbazzo/workshopmongo/resources/UserResource.java
+/Volumes/HD2/workshop-spring-boot-mongodb/src/main/java/com/pedropbazzo/workshopmongo/domain/User.java
+/Volumes/HD2/workshop-spring-boot-mongodb/src/main/java/com/pedropbazzo/workshopmongo/dto/AuthorDTO.java
+/Volumes/HD2/workshop-spring-boot-mongodb/src/main/java/com/pedropbazzo/workshopmongo/services/exception/ObjectNotFoundException.java
+/Volumes/HD2/workshop-spring-boot-mongodb/src/main/java/com/pedropbazzo/workshopmongo/dto/CommentDTO.java
+/Volumes/HD2/workshop-spring-boot-mongodb/src/main/java/com/pedropbazzo/workshopmongo/services/UserService.java
